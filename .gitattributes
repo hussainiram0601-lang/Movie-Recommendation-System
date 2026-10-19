@@ -1,3 +1,4 @@
-*.pkl filter=lfs diff=lfs merge=lfs -text
-*.pkl !text !filter !merge !diff
+
 sim.pkl filter=lfs diff=lfs merge=lfs -text
+movies.pkl !text !filter !merge !diff
+movies_dict.pkl !text !filter !merge !diff
