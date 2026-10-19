@@ -2,7 +2,8 @@
 
 A simple, interactive movie recommender web app that suggests similar movies based on a chosen title and displays their posters. The app is built in Python and designed to be easy to run locally or deploy (Procfile included for common PaaS platforms).
 
-![App Screenshot](assets/screenshot.png)
+!<img width="2277" height="917" alt="image" src="https://github.com/user-attachments/assets/dcbdbd2e-72c3-4daa-b12f-af6119581bf0" />
+assets/screenshot.png)
 
 > Screenshot: Place a screenshot at `assets/screenshot.png` (or update the path below) — the included project screenshot shows the dark-themed UI with a movie select box and recommended movie posters.
 
